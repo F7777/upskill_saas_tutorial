@@ -40,4 +40,4 @@ class ContactsController < ApplicationController
     end
 end
 
-#this is a test comment
+#this is a test comment 2
